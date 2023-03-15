@@ -4,7 +4,8 @@ The picture above was taken by myself using my favorite film camera :camera:. I 
 
 ## Skillset
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 <!--
 **jintong-yu/jintong-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
