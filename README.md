@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/jintong-yu/<OWNER>/<OWNER>/readme_header.png "Header")]
+[![Header](https://raw.githubusercontent.com/jintong-yu/<OWNER>/<OWNER>/readme_header.png)]
 <!--
 **jintong-yu/jintong-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
