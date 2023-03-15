@@ -1,4 +1,4 @@
-!(https://raw.github.com/jintong-yu/jintong-yu/readme_header.png?raw=true)
+![header](readme_header.png)
 ### Hi there 👋
 
 <!--
