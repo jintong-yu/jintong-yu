@@ -1,6 +1,6 @@
 ![header](readme_header.jpg)
-### Hello, I'm Jintong!  
-The picture above was taken by myself using my favorite film camera :camera:
+### Hello, I'm Jintong :wink: 
+The picture above was taken by myself using my favorite film camera :camera: I love to explore the world as much as to understand it using Data Science. I am currently a Master student majoring Quantitative Methods in Social Science at Columbia University. You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/jintong-yu/)
 
 <!--
 **jintong-yu/jintong-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
