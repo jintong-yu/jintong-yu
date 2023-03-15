@@ -1,5 +1,6 @@
 ![header](readme_header.jpg)
-### Hi there 👋
+### Hello, I'm Jintong!  
+The picture above was taken by myself using my favorite film camera :camera:
 
 <!--
 **jintong-yu/jintong-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
