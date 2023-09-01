@@ -1,6 +1,6 @@
 ![header](readme_header.jpg)
 # Hello, I'm Jintong :wink: 
-The picture above was taken by myself using my favorite film camera :camera:. I love to explore the world as much as to understand it using Data Science. I am currently a Master student majoring in Quantitative Methods in Social Science at Columbia University and looking for a data science summer internship or full-time job starting from Jan. 2024. If you think I might be a good fit for some opportunities, please feel free to contact me! You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/jintong-yu/).  
+The picture above was taken by myself using my favorite film camera :camera:. I love to explore the world as much as to explore it through Data Science. I am currently a Master student majoring in Quantitative Methods in Social Science at Columbia University. If you think I might be a good fit for some opportunities, please feel free to contact me! You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/jintong-yu/).  
 
 ## Skillset
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
